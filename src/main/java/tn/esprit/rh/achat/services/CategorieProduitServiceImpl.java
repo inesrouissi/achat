@@ -10,7 +10,7 @@ import java.util.List;
 @Service
 public class CategorieProduitServiceImpl implements ICategorieProduitService {
 
-	
+	// ines
 	@Autowired
 	CategorieProduitRepository categorieProduitRepository;
 	@Override
